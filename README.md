@@ -11,12 +11,12 @@ If there is enough inventory remaining, then the item's inventory is updated acc
 
 The first screenshot here shows a successful purchase.  A receipt is displayed with the total sales price paid. 
 ####screenshot1 (receipt):
-![Image of Yaktocat](https://github.com/Tad3hats/bamazon/blob/master/bamazon_screenshot1.png)
+![Image of bamazon](https://github.com/Tad3hats/bamazon/blob/master/bamazon_screenshot1.png)
 
 The second screenshot shows the error message if there is not enough inventory to cover the requested purchase.
 ####screenshot2 (insufficient quantity):
-![Image of ](https://github.com/Tad3hats/bamazon/blob/master/bamazon_screenshot2.png)
+![Image of bamazon](https://github.com/Tad3hats/bamazon/blob/master/bamazon_screenshot2.png)
 
 The last screenshot shows what happens when the user decides to quit shopping.
 ####screenshot3 (Next steps and quitting):
-![Image of ](https://github.com/Tad3hats/bamazon/blob/master/bamazon_screenshot3.png)
+![Image of bamazon](https://github.com/Tad3hats/bamazon/blob/master/bamazon_screenshot3.png)
