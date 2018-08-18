@@ -48,7 +48,7 @@ function buy() {
     connection.query("SELECT * FROM products", function (err, results) {
         if (err) throw err;
         // console.log(results);
-        //         // once you have the items, prompt the user for which they'd like to bid on
+        //         // once you have the items, prompt the user to make their selection
         inquirer
             .prompt([
                 {
@@ -162,8 +162,3 @@ function quit() {
     console.log("Thanks for shopping at BAMAZON.  Come again soon!");
     process.exit(0);
 };
-
-// function inventory() {
-//     console.log("Thanks for shopping at BAMAZON.  Come again soon!";
-// }
-
