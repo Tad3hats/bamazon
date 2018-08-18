@@ -10,7 +10,7 @@ They are prompted to select an item to buy and specify how many items to buy.
 If there is enough inventory remaining, then the item's inventory is updated accordingly. 
 
 The first screenshot here shows a successful purchase.  A receipt is displayed with the total sales price paid. 
-screenshot1 (receipt):
+####screenshot1 (receipt):####
 ![Image of Yaktocat](https://github.com/Tad3hats/bamazon/blob/master/bamazon_screenshot1.png)
 
 The second screenshot shows the error message if there is not enough inventory to cover the requested purchase.
