@@ -113,6 +113,7 @@ function buy() {
                     console.log("======================");    
                     console.log("Receipt:")
                     console.log("You have successfully purchased " + answer.howmany + " " + chosenItem.product_name + "(s) for a total of $" + totalCost+ "!");
+                    console.log("Your order should arrive in two days.");
                     console.log("Thanks for shopping at BAMAZON!");
                     console.log("======================");
                     nextSteps();
